@@ -17,11 +17,8 @@
 
 Users should be able to:
 
-#### - 
+#### - Click on the menu to reveal a nav bar with animations
 
-#### - 
-
-#### - 
 
 ### Features
 
@@ -31,7 +28,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [ GitHub Solution](GitHub )
+- Solution URL: [Netflix Navigation GitHub Solution](https://github.com/MaryAngelique/netflix-nagivation)
 - Live Site URL: [ Website](Deployed website)
 
 ## My process
