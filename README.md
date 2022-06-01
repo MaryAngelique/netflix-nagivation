@@ -31,8 +31,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Netflix Navigation GitHub Solution](https://github.com/MaryAngelique/netflix-nagivation)
-- Live Site URL: [ Website](Deployed website)
-
+- Live Site URL: [Netflix Navigation Website](https://netflix-nagivation.vercel.app/)
 ## My process
 
 ### Built with
